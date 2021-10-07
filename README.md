@@ -4,7 +4,7 @@
 
 ## Why I made this?
 
-### I built this web-app to have a better understanding of how API's work and also because I like looking at new Images sometimes 😝 
+### I have built this web-app to have a better understanding of how API's work and also because I like looking at new Images sometimes 😝 
 
 ## Live Demo:
 
