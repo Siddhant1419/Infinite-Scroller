@@ -1,6 +1,6 @@
 # Infinite-Scroller
 
-It's a photo gallery web-app. It's an old project that I thought of posting it.
+### It's a photo gallery web-app. It's an old project that I thought of posting it.
 
 ## Why I made this?
 
