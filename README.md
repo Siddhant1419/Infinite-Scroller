@@ -8,7 +8,7 @@
 
 ## Live Demo:
 
-You can have a look of <a href="https://siddhant1419.github.io/Infinite-Scroller/">Infinite-Scroller</a> here.
+### You can have a look of <a href="https://siddhant1419.github.io/Infinite-Scroller/">Infinite-Scroller</a> here.
 
 ## API's Used:
 
